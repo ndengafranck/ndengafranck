@@ -76,7 +76,7 @@ Credly Verified Certification
 <p align="center">
   <a href="https://www.credly.com/badges/7290924f-2eb2-46d9-a110-c6ba14acaa55/public_url" target="_blank">
     <img
-      src="https://images.credly.com/size/150x150/images/7290924f-2eb2-46d9-a110-c6ba14acaa55/image.png"
+      src="./public/certificate/nasa_space_apps/ndengafranck_nasa_certificate.png"
       alt="Credly Digital Badge"
       width="150"
     />
