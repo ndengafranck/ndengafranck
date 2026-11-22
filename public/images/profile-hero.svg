@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Franck Simonet — Software Engineer</title>
+  <desc id="description">A custom animated profile banner with a waving hand, a software engineer introduction, and a code terminal.</desc>
+  <defs>
+    <linearGradient id="background" x1="25" y1="15" x2="970" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101A2D"/>
+      <stop offset="1" stop-color="#08111F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="80" y1="0" x2="870" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6EE7D8"/>
+      <stop offset="1" stop-color="#8AA8FF"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="633" y1="77" x2="929" y2="276" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#18263C"/>
+      <stop offset="1" stop-color="#111C2E"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#9BB5D9" stroke-opacity=".07"/>
+    </pattern>
+    <filter id="glow" x="540" y="-75" width="565" height="482" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="42"/>
+    </filter>
+    <style>
+      text { font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; }
+      .wave { transform-box: fill-box; transform-origin: 50% 85%; animation: wave 2.2s ease-in-out infinite; }
+      .cursor { animation: blink 1s steps(2, start) infinite; }
+      .glow { animation: breathe 5s ease-in-out infinite alternate; }
+      @keyframes wave { 0%, 60%, 100% { transform: rotate(0); } 10%, 25%, 40% { transform: rotate(13deg); } 18%, 33%, 48% { transform: rotate(-8deg); } }
+      @keyframes blink { to { opacity: 0; } }
+      @keyframes breathe { to { opacity: .8; transform: scale(1.08); } }
+      @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; } }
+    </style>
+  </defs>
+
+  <rect width="1000" height="340" rx="26" fill="url(#background)"/>
+  <rect width="1000" height="340" rx="26" fill="url(#grid)"/>
+  <ellipse class="glow" cx="816" cy="156" rx="205" ry="137" fill="url(#accent)" opacity=".17" filter="url(#glow)"/>
+  <path d="M25 92V26a1 1 0 0 1 1-1h62" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" opacity=".8"/>
+  <path d="M975 248v66a1 1 0 0 1-1 1h-62" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" opacity=".6"/>
+
+  <text x="64" y="76" fill="#85E5D8" font-size="12" font-weight="700" letter-spacing="2.8">SOFTWARE ENGINEER  ·  CAMEROON</text>
+  <text x="61" y="148" fill="#F4F7FC" font-size="51" font-weight="750" letter-spacing="-2">Franck Simonet</text>
+  <text class="wave" x="443" y="143" font-size="37">👋</text>
+  <text x="65" y="190" fill="#C5D1E2" font-size="19" font-weight="450">I build useful software and reliable backends.</text>
+
+  <g transform="translate(65 224)">
+    <rect width="121" height="31" rx="15.5" fill="#6EE7D8" fill-opacity=".12" stroke="#6EE7D8" stroke-opacity=".3"/>
+    <circle cx="17" cy="15.5" r="4" fill="#6EE7D8"/>
+    <text x="29" y="20" fill="#D6F8F3" font-size="12" font-weight="600">PYTHON</text>
+    <rect x="132" width="119" height="31" rx="15.5" fill="#8AA8FF" fill-opacity=".12" stroke="#8AA8FF" stroke-opacity=".3"/>
+    <circle cx="149" cy="15.5" r="4" fill="#8AA8FF"/>
+    <text x="161" y="20" fill="#DDE5FF" font-size="12" font-weight="600">BACKEND</text>
+    <rect x="262" width="78" height="31" rx="15.5" fill="#C19BFF" fill-opacity=".12" stroke="#C19BFF" stroke-opacity=".3"/>
+    <circle cx="279" cy="15.5" r="4" fill="#C19BFF"/>
+    <text x="291" y="20" fill="#E9DEFF" font-size="12" font-weight="600">AI / ML</text>
+  </g>
+
+  <g>
+    <rect x="572" y="63" width="363" height="216" rx="16" fill="url(#panel)" stroke="#8195B4" stroke-opacity=".25"/>
+    <path d="M572 108h363" stroke="#8195B4" stroke-opacity=".2"/>
+    <circle cx="596" cy="86" r="5" fill="#FF7D86"/>
+    <circle cx="614" cy="86" r="5" fill="#FFCA70"/>
+    <circle cx="632" cy="86" r="5" fill="#71D9AD"/>
+    <text x="655" y="91" fill="#8999B4" font-size="12">ideas.py</text>
+    <text x="598" y="140" fill="#94A3B8" font-size="13">01</text>
+    <text x="628" y="140" fill="#C4A7FF" font-size="13" font-weight="600">def</text>
+    <text x="659" y="140" fill="#8BE9D9" font-size="13" font-weight="600">build_something_good</text>
+    <text x="817" y="140" fill="#CBD5E1" font-size="13">():</text>
+    <text x="598" y="168" fill="#94A3B8" font-size="13">02</text>
+    <text x="646" y="168" fill="#F2C97D" font-size="13">while</text>
+    <text x="682" y="168" fill="#F1F5F9" font-size="13">learning:</text>
+    <text x="598" y="196" fill="#94A3B8" font-size="13">03</text>
+    <text x="663" y="196" fill="#9DB7FF" font-size="13">solve</text>
+    <text x="699" y="196" fill="#CBD5E1" font-size="13">(</text>
+    <text x="706" y="196" fill="#A5DFB3" font-size="13">real_problems</text>
+    <text x="805" y="196" fill="#CBD5E1" font-size="13">)</text>
+    <text x="598" y="224" fill="#94A3B8" font-size="13">04</text>
+    <text x="663" y="224" fill="#9DB7FF" font-size="13">ship</text>
+    <text x="692" y="224" fill="#CBD5E1" font-size="13">(</text>
+    <text x="699" y="224" fill="#A5DFB3" font-size="13">useful_ideas</text>
+    <text x="790" y="224" fill="#CBD5E1" font-size="13">)</text>
+    <rect class="cursor" x="801" y="213" width="2" height="16" rx="1" fill="#6EE7D8"/>
+    <text x="598" y="256" fill="#94A3B8" font-size="13">05</text>
+    <text x="646" y="256" fill="#8999B4" font-size="12"># keep building, keep learning</text>
+  </g>
+</svg>
