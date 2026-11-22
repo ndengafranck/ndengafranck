@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="464" viewBox="0 0 1000 464" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">GitHub repository dashboard for @ndengafranck</title>
+  <desc id="description">27 verified public repositories, 9 stars, 0 forks, and 0 followers. Updated 2026-11-22.</desc>
+  <defs>
+    <linearGradient id="background" x1="20" y1="0" x2="980" y2="464" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101A2D"/>
+      <stop offset="1" stop-color="#08111F"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#9BB5D9" stroke-opacity=".045"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="464" rx="22" fill="url(#background)"/>
+  <rect width="1000" height="464" rx="22" fill="url(#grid)"/>
+  <text x="38" y="43" fill="#77E4D2" font-size="11" font-weight="700" letter-spacing="2">GITHUB  /  REPOSITORY DASHBOARD</text>
+  <text x="38" y="68" fill="#C5D1E2" font-size="13">@ndengafranck · Public work, checked against GitHub</text>
+  <text x="961" y="43" fill="#91A2BA" font-size="11" text-anchor="end">UPDATED 2026-11-22 UTC</text>
+  
+  <g>
+    <rect x="36" y="91" width="221" height="82" rx="13" fill="#111E31" stroke="#7186A5" stroke-opacity=".22"/>
+    <text x="53" y="119" fill="#91A2BA" font-size="10" font-weight="700" letter-spacing="1.1">PUBLIC REPOSITORIES</text>
+    <text x="53" y="153" fill="#77E4D2" font-size="27" font-weight="700">27</text>
+  </g>
+  <g>
+    <rect x="273" y="91" width="221" height="82" rx="13" fill="#111E31" stroke="#7186A5" stroke-opacity=".22"/>
+    <text x="290" y="119" fill="#91A2BA" font-size="10" font-weight="700" letter-spacing="1.1">STARS EARNED</text>
+    <text x="290" y="153" fill="#FFD479" font-size="27" font-weight="700">9</text>
+  </g>
+  <g>
+    <rect x="510" y="91" width="221" height="82" rx="13" fill="#111E31" stroke="#7186A5" stroke-opacity=".22"/>
+    <text x="527" y="119" fill="#91A2BA" font-size="10" font-weight="700" letter-spacing="1.1">FORKS</text>
+    <text x="527" y="153" fill="#A9B8FF" font-size="27" font-weight="700">0</text>
+  </g>
+  <g>
+    <rect x="747" y="91" width="221" height="82" rx="13" fill="#111E31" stroke="#7186A5" stroke-opacity=".22"/>
+    <text x="764" y="119" fill="#91A2BA" font-size="10" font-weight="700" letter-spacing="1.1">FOLLOWERS</text>
+    <text x="764" y="153" fill="#D4A8FF" font-size="27" font-weight="700">0</text>
+  </g>
+  <rect x="36" y="190" width="590" height="228" rx="13" fill="#111E31" stroke="#7186A5" stroke-opacity=".22"/>
+  <rect x="642" y="190" width="322" height="228" rx="13" fill="#111E31" stroke="#7186A5" stroke-opacity=".22"/>
+  <text x="56" y="219" fill="#F1F5F9" font-size="12" font-weight="700" letter-spacing="1">MOST-STARRED REPOSITORIES</text>
+  <text x="392" y="247" fill="#8192AA" font-size="9" font-weight="700">LANGUAGE</text>
+  <text x="484" y="247" fill="#8192AA" font-size="9" font-weight="700">STARS</text>
+  <text x="552" y="247" fill="#8192AA" font-size="9" font-weight="700">FORKS</text>
+  
+    <text x="56" y="269" fill="#E3EAF5" font-size="12" font-weight="600">ResultSystem</text>
+    <text x="392" y="269" fill="#AAB8CD" font-size="11">JavaScript</text>
+    <text x="484" y="269" fill="#FFD479" font-size="11">1</text>
+    <text x="552" y="269" fill="#A9B8FF" font-size="11">0</text>
+    <path d="M56 279H612" stroke="#7588A3" stroke-opacity=".13"/>
+    <text x="56" y="300" fill="#E3EAF5" font-size="12" font-weight="600">TraceLink-AI</text>
+    <text x="392" y="300" fill="#AAB8CD" font-size="11">Python</text>
+    <text x="484" y="300" fill="#FFD479" font-size="11">1</text>
+    <text x="552" y="300" fill="#A9B8FF" font-size="11">0</text>
+    <path d="M56 310H612" stroke="#7588A3" stroke-opacity=".13"/>
+    <text x="56" y="331" fill="#E3EAF5" font-size="12" font-weight="600">MboaScope</text>
+    <text x="392" y="331" fill="#AAB8CD" font-size="11">Python</text>
+    <text x="484" y="331" fill="#FFD479" font-size="11">1</text>
+    <text x="552" y="331" fill="#A9B8FF" font-size="11">0</text>
+    <path d="M56 341H612" stroke="#7588A3" stroke-opacity=".13"/>
+    <text x="56" y="362" fill="#E3EAF5" font-size="12" font-weight="600">gitfast</text>
+    <text x="392" y="362" fill="#AAB8CD" font-size="11">JavaScript</text>
+    <text x="484" y="362" fill="#FFD479" font-size="11">1</text>
+    <text x="552" y="362" fill="#A9B8FF" font-size="11">0</text>
+    <path d="M56 372H612" stroke="#7588A3" stroke-opacity=".13"/>
+    <text x="56" y="393" fill="#E3EAF5" font-size="12" font-weight="600">collabu</text>
+    <text x="392" y="393" fill="#AAB8CD" font-size="11">JavaScript</text>
+    <text x="484" y="393" fill="#FFD479" font-size="11">1</text>
+    <text x="552" y="393" fill="#A9B8FF" font-size="11">0</text>
+    <path d="M56 403H612" stroke="#7588A3" stroke-opacity=".13"/>
+  <text x="662" y="219" fill="#F1F5F9" font-size="12" font-weight="700" letter-spacing=".7">LANGUAGES · REPO COUNT</text>
+  
+    <text x="641" y="267" fill="#E3EAF5" font-size="11">JavaScript</text>
+    <text x="940" y="267" fill="#AAB8CD" font-size="11" text-anchor="end">10</text>
+    <rect x="641" y="274" width="299" height="5" rx="2.5" fill="#26354B"/>
+    <rect x="641" y="274" width="299" height="5" rx="2.5" fill="#77E4D2"/>
+    <text x="641" y="305" fill="#E3EAF5" font-size="11">Python</text>
+    <text x="940" y="305" fill="#AAB8CD" font-size="11" text-anchor="end">5</text>
+    <rect x="641" y="312" width="299" height="5" rx="2.5" fill="#26354B"/>
+    <rect x="641" y="312" width="150" height="5" rx="2.5" fill="#77E4D2"/>
+    <text x="641" y="343" fill="#E3EAF5" font-size="11">TypeScript</text>
+    <text x="940" y="343" fill="#AAB8CD" font-size="11" text-anchor="end">5</text>
+    <rect x="641" y="350" width="299" height="5" rx="2.5" fill="#26354B"/>
+    <rect x="641" y="350" width="150" height="5" rx="2.5" fill="#77E4D2"/>
+    <text x="641" y="381" fill="#E3EAF5" font-size="11">HTML</text>
+    <text x="940" y="381" fill="#AAB8CD" font-size="11" text-anchor="end">3</text>
+    <rect x="641" y="388" width="299" height="5" rx="2.5" fill="#26354B"/>
+    <rect x="641" y="388" width="90" height="5" rx="2.5" fill="#77E4D2"/>
+  <path d="M36 434H964" stroke="#7186A5" stroke-opacity=".24"/>
+  <text x="38" y="451" fill="#91A2BA" font-size="10">VERIFIED 27 / 27 PUBLIC REPOSITORIES · OWNERSHIP CHECKED VIA GITHUB API</text>
+</svg>

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./public/images/profile-hero.svg" alt="Franck Simonet, software engineer from Cameroon, building useful software and reliable backends with Python, backend technologies, and AI/ML." width="100%" />
+  <img src="./public/images/profile-hero.svg" alt="Franck Simonet, software engineer from Cameroon, building useful software and reliable backends with Python, APIs, and systems engineering." width="100%" />
 
   <p>
     <a href="mailto:ndengafranck771@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-Email_me-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Franck" /></a>
@@ -7,14 +7,25 @@
     <a href="https://github.com/ndengafranck"><img src="https://img.shields.io/badge/FOLLOW-GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
   </p>
 
-  <p><a href="#about-me">About</a> · <a href="#toolbox">Toolbox</a> · <a href="#selected-builds">Projects</a> · <a href="#learning-in-public">Learning</a> · <a href="#credential">Credential</a></p>
+  <p><a href="#about-me">About</a> · <a href="#github-dashboard">Stats</a> · <a href="#toolbox">Toolbox</a> · <a href="#selected-builds">Projects</a> · <a href="#learning-in-public">Learning</a> · <a href="#credential">Credential</a></p>
 </div>
+
+## GitHub dashboard
+
+<div align="center">
+  <a href="https://github.com/ndengafranck?tab=repositories">
+    <img src="./public/images/repository-dashboard.svg" alt="Automatically generated dashboard of verified public GitHub repositories, stars, forks, followers, and top repositories." width="100%" />
+  </a>
+  <p><sub>Public repositories only · Repository ownership is checked against GitHub · Refreshed weekly</sub></p>
+</div>
+
+Run <code>node scripts/update-repo-dashboard.mjs</code> to refresh it locally. A scheduled GitHub Action updates the dashboard every week.
 
 ## About me
 
 <p><strong>Hi, I'm Franck</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand" /></p>
 
-I'm a software developer from **Cameroon** who loves turning ideas into practical software. I focus on reliable backend systems, thoughtful APIs, and the exciting intersection of software engineering and artificial intelligence.
+I'm a software developer from **Cameroon** who loves turning ideas into practical software. I focus on reliable backend systems, thoughtful APIs, and solving complex problems with code.
 
 I enjoy backend architecture, API development, database design, and untangling complex problems with code. My goal is simple: keep learning, build useful things, and make each project better than the last.
 
@@ -64,10 +75,10 @@ I enjoy backend architecture, API development, database design, and untangling c
 
 Right now I'm going deeper into:
 
-- **AI &amp; machine learning** — deep learning and neural networks.
 - **Software design** — architecture and design patterns.
 - **Distributed systems** — microservices and systems that scale.
 - **Computer science foundations** — operating systems and computer networks.
+- **Backend engineering** — REST APIs, data modeling, and testing.
 
 Alongside that, I'm building **Franck Coding**, developing Python backends and REST APIs, and sharpening my testing and deployment practices.
 
