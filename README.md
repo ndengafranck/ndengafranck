@@ -1,76 +1,99 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Franck%20Simonet&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Python%20Backend%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=16" alt="Franck Simonet — Software Engineer, Python Backend Developer, and AI Enthusiast" width="100%" />
-
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1100&color=2C5364&center=true&vCenter=true&width=600&lines=Building+reliable+backend+systems;Exploring+AI%2C+machine+learning+%26+deep+learning;Turning+ideas+into+useful+software" alt="Building reliable backend systems; exploring AI, machine learning, and deep learning; turning ideas into useful software" />
-  </a>
+  <img src="./public/images/profile-hero.svg" alt="Franck Simonet, software engineer from Cameroon, building useful software and reliable backends with Python, backend technologies, and AI/ML." width="100%" />
 
   <p>
-    <a href="mailto:ndengafranck771@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Franck" /></a>
-    <a href="https://www.linkedin.com/in/franck-simonet-mouahanye-ndenga-09884135b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-    <a href="https://github.com/ndengafranck"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+    <a href="mailto:ndengafranck771@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-Email_me-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Franck" /></a>
+    <a href="https://www.linkedin.com/in/franck-simonet-mouahanye-ndenga-09884135b/"><img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+    <a href="https://github.com/ndengafranck"><img src="https://img.shields.io/badge/FOLLOW-GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
   </p>
+
+  <p><a href="#about-me">About</a> · <a href="#toolbox">Toolbox</a> · <a href="#selected-builds">Projects</a> · <a href="#learning-in-public">Learning</a> · <a href="#credential">Credential</a></p>
 </div>
 
----
+## About me
 
-## 👋 Hi, I'm Franck
+<p><strong>Hi, I'm Franck</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand" /></p>
 
-I'm a software developer from Cameroon passionate about building practical software solutions, designing reliable backend systems, and exploring the intersection of software engineering and artificial intelligence.
+I'm a software developer from **Cameroon** who loves turning ideas into practical software. I focus on reliable backend systems, thoughtful APIs, and the exciting intersection of software engineering and artificial intelligence.
 
-I enjoy backend architecture, API development, database design, and solving complex problems through code.
+I enjoy backend architecture, API development, database design, and untangling complex problems with code. My goal is simple: keep learning, build useful things, and make each project better than the last.
 
-## 🧭 What I'm focused on
-
-- Building **Franck Coding**, my personal developer portfolio platform.
-- Developing backend applications and RESTful APIs with Python.
-- Exploring microservices architecture and scalable software systems.
-- Deepening my knowledge of artificial intelligence, machine learning, and deep learning.
-- Improving my software engineering practices, testing, and deployment workflows.
-
-## 🧰 Technologies & tools
+## Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,django,flask,fastapi,nodejs,express,react,html,css,postgres,mysql,mongodb,sqlite,docker,git,github,vscode&perline=11" alt="Python, JavaScript, TypeScript, Java, C, C++, Django, Flask, FastAPI, Node.js, Express, React, HTML, CSS, PostgreSQL, MySQL, MongoDB, SQLite, Docker, Git, GitHub, and VS Code" />
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp&perline=6" alt="Python, JavaScript, TypeScript, Java, C, and C++" />
+  <h3>Backend, frontend &amp; data</h3>
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express,react,html,css,postgres,mysql,mongodb,sqlite&perline=6" alt="Django, Flask, FastAPI, Node.js, Express, React, HTML, CSS, PostgreSQL, MySQL, MongoDB, and SQLite" />
+  <h3>Tools</h3>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode&perline=4" alt="Docker, Git, GitHub, and VS Code" />
 </div>
 
-## 🚀 Featured projects
+## Selected builds
 
-| Project | What it is |
-| --- | --- |
-| **Franck Coding** | My personal developer portfolio platform, showcasing my engineering journey, projects, and technical work. |
-| **CollabU** | A university-focused collaboration platform designed to connect students and support academic collaboration. |
-| **University Result System** | An academic management application for handling student results, academic roles, and marks processing. |
-| **Franckater** | An original cipher algorithm and API project exploring text encryption and decryption. |
-| **GitFast** | A desktop GitHub client built with Electron, React, and Vite. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧑‍💻 Franck Coding</h3>
+      <p>My personal developer portfolio platform: a home for my engineering journey, projects, and technical work.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 CollabU</h3>
+      <p>A university-focused collaboration platform designed to connect students and support academic collaboration.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 University Result System</h3>
+      <p>An academic management application for student results, academic roles, and marks processing.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 Franckater</h3>
+      <p>An original cipher algorithm and API project exploring text encryption and decryption.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>⚡ GitFast</h3>
+      <p>A desktop GitHub client built with Electron, React, and Vite.</p>
+    </td>
+  </tr>
+</table>
 
-## 🌱 Currently learning
+## Learning in public
 
-Artificial intelligence & machine learning · Deep learning & neural networks · Software architecture & design patterns · Microservices & distributed systems · Operating systems & computer networks
+Right now I'm going deeper into:
 
-## 🏆 Certification
+- **AI &amp; machine learning** — deep learning and neural networks.
+- **Software design** — architecture and design patterns.
+- **Distributed systems** — microservices and systems that scale.
+- **Computer science foundations** — operating systems and computer networks.
+
+Alongside that, I'm building **Franck Coding**, developing Python backends and REST APIs, and sharpening my testing and deployment practices.
+
+## Credential
 
 <div align="center">
   <a href="https://www.credly.com/badges/7290924f-2eb2-46d9-a110-c6ba14acaa55/public_url">
-    <img src="./public/certificate/nasa_space_apps/ndengafranck_nasa_certificate.png" alt="NASA Space Apps certificate" width="220" />
+    <img src="./public/certificate/nasa_space_apps/ndengafranck_nasa_certificate.png" alt="Franck Simonet's NASA Space Apps certificate" width="220" />
     <br />
     <strong>View my verified Credly credential ↗</strong>
   </a>
 </div>
 
-## 🤝 Let's connect
+## Say hello
 
-I'm open to meaningful collaborations, interesting engineering challenges, and opportunities to learn and build impactful software.
+Open to meaningful collaborations, interesting engineering challenges, and opportunities to learn and build impactful software.
 
 <div align="center">
-  <a href="mailto:ndengafranck771@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Franck" /></a>
-  <a href="https://www.linkedin.com/in/franck-simonet-mouahanye-ndenga-09884135b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:ndengafranck771@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ndengafranck771%40gmail.com-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email ndengafranck771@gmail.com" /></a>
+  <a href="https://www.linkedin.com/in/franck-simonet-mouahanye-ndenga-09884135b/"><img src="https://img.shields.io/badge/LINKEDIN-Franck%20Simonet-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Franck Simonet on LinkedIn" /></a>
 </div>
 
 <br />
 
 <div align="center">
-  <i>"Keep building. Keep learning. Keep improving."</i>
+  <i>“Keep building. Keep learning. Keep improving.”</i>
   <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" alt="" width="100%" />
+  <sub>Made with curiosity, code, and a little Cameroonian sunshine 🇨🇲</sub>
 </div>
